@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es2015"
+        ],
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "lib/"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}

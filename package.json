@@ -1,0 +1,32 @@
+{
+  "name": "express-error-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for express api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzixin1113/express-error-wrapper.git"
+  },
+  "keywords": [
+    "express",
+    "error",
+    "handler",
+    "unified",
+    "api",
+    "router",
+    "wrap",
+    "wrapper"
+  ],
+  "author": "wangzixin (wangzixin@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangzixin1113/express-error-wrapper/issues"
+  },
+  "homepage": "https://github.com/wangzixin1113/express-error-wrapper#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
